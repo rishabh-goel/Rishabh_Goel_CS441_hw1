@@ -29,4 +29,4 @@ Grading Criteria:
     * program runs: -0%
  - the documentation exists but it is insufficient to understand your cloud simulation design and models and how you assembled and deployed all components of the cloud:
     * documentation exists: -0%
-Total grade: 7.4%
+Total grade: 7.6%
